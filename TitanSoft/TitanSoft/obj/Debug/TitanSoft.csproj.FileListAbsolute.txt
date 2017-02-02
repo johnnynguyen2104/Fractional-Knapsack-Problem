@@ -1,0 +1,5 @@
+c:\users\bxleoleo\documents\visual studio 2015\Projects\TitanSoft\TitanSoft\bin\Debug\TitanSoft.exe.config
+c:\users\bxleoleo\documents\visual studio 2015\Projects\TitanSoft\TitanSoft\bin\Debug\TitanSoft.exe
+c:\users\bxleoleo\documents\visual studio 2015\Projects\TitanSoft\TitanSoft\bin\Debug\TitanSoft.pdb
+c:\users\bxleoleo\documents\visual studio 2015\Projects\TitanSoft\TitanSoft\obj\Debug\TitanSoft.exe
+c:\users\bxleoleo\documents\visual studio 2015\Projects\TitanSoft\TitanSoft\obj\Debug\TitanSoft.pdb
